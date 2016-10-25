@@ -1,0 +1,4 @@
+{
+  "labrador": "develop/weapp_modules/labrador/index.js",
+  "weapp-promise": "develop/weapp_modules/weapp-promise/index.js"
+}
